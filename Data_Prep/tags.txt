@@ -1,0 +1,1 @@
+team,company_description,project_description,market_description,investment_description
